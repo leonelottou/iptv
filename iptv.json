@@ -9,7 +9,22 @@
     "logo":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/France_2_2018.svg/35px-France_2_2018.svg.png",
     "url":"https://s13.tntendirect.com/france2/live/playlist.m3u8"
 
+},
+
+{
+    "nom":"France 3",
+    "logo":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/France_3_2018.svg/35px-France_3_2018.svg.png",
+    "url":"https://s13.tntendirect.com/france3/live/playlist.m3u8"
+
+},
+
+{
+    "nom":"M6",
+    "logo":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Logo_M6_%282020%2C_fond_clair%29.svg/49px-Logo_M6_%282020%2C_fond_clair%29.svg.png",
+    "url":"https://s13.tntendirect.com/m6/live/playlist.m3u8"
+
 }
+
 
 
 ]
