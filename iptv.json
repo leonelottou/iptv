@@ -12,7 +12,7 @@
 },
 
 {
-    "nom":"FBBC Drama",
+    "nom":"BBC Drama",
     "logo":"https://i.imgur.com/hY1M4hL.jpg",
     "url":"https://bbceu-bbcdrama-1-fr.samsung.wurl.tv/playlist.m3u8"
 
@@ -23,7 +23,107 @@
     "logo":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Logo_M6_%282020%2C_fond_clair%29.svg/49px-Logo_M6_%282020%2C_fond_clair%29.svg.png",
     "url":"https://shls-m6-france-prod-dub.shahid.net/out/v1/c8a9f6e000cd4ebaa4d2fc7d18c15988/index.m3u8"
 
+},
+
+{
+    "nom":"France 24",
+    "logo":"https://i.imgur.com/61MSiq9.png",
+    "url":"https://hls.youtb.workers.dev/channel/UCCCPCZNChQdGa9EkATeye4g.m3u8"
+
+},
+
+{
+    "nom":"DBM TV",
+    "logo":"https://i.imgur.com/61MSiq9.png",
+    "url":"http://dbmtv.vedge.infomaniak.com/livecast/dbmtv/playlist.m3u8"
+
+},
+
+{
+    "nom":"KTO",
+    "logo":"https://upload.wikimedia.org/wikipedia/fr/thumb/4/4f/Logo_de_KTO_T%C3%A9l%C3%A9vision_catholique_2022.png/200px-Logo_de_KTO_T%C3%A9l%C3%A9vision_catholique_2022.png",
+    "url":"http://dbmtv.vedge.infomaniak.com/livecast/dbmtv/playlist.m3u8"
+
+},
+
+{
+    "nom":"Sport En France",
+    "logo":"https://www.google.com/imgres?imgurl=https%3A%2F%2Flookaside.fbsbx.com%2Flookaside%2Fcrawler%2Fmedia%2F%3Fmedia_id%3D129163073771201&imgrefurl=https%3A%2F%2Fwww.facebook.com%2FFrancetvsport%2F&tbnid=tdrzCDsbzwmzwM&vet=12ahUKEwiY4OiD4a78AhU-pycCHRmNBOwQMygAegUIARDBAQ..i&docid=RwI69eEsijEX6M&w=300&h=300&q=sport%20en%20france%20tv%20logo&ved=2ahUKEwiY4OiD4a78AhU-pycCHRmNBOwQMygAegUIARDBAQ",
+    "url":"https://sp1564435593.mytvchain.info/live/sp1564435593_360/index.m3u8"
+
+},
+{
+    "nom":"TV5Monde Info",
+    "logo":"https://i.imgur.com/NcysrWH.png",
+    "url":"https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8"
+
+},
+
+{
+    "nom":"TV78",
+    "logo":"https://www.google.com/imgres?imgurl=https%3A%2F%2Fcompagnieaffable.files.wordpress.com%2F2018%2F06%2Flogo-tv78.png%3Fw%3D640&imgrefurl=https%3A%2F%2Fcompagnieaffable.com%2Ffigures-de-style-de-la-fontaine-a-booba%2Flogo-tv78%2F&tbnid=NjGGiwmYf2bHRM&vet=12ahUKEwi59Oyf4a78AhXfpycCHTddBZcQMygEegQIARBb..i&docid=SbkAfg1KoAHljM&w=640&h=480&q=TV78%20logo&ved=2ahUKEwi59Oyf4a78AhXfpycCHTddBZcQMygEegQIARBb",
+    "url":"https://streamtv.cdn.dvmr.fr/TV78/ngrp:tv78.stream_all/master.m3u8"
+
+},
+
+{
+    "nom":"Novelas TV",
+    "logo":"https://upload.wikimedia.org/wikipedia/commons/3/34/Novelas_TV.png",
+    "url":"https://stormcast-telenovelatv-1-fr.samsung.wurl.tv/playlist.m3u8"
+
+},
+{
+    "nom":"Rakuten TV Films Action ",
+    "logo":"https://i.imgur.com/jJTnBNk.jpeg",
+    "url":"https://stormcast-telenovelatv-1-fr.samsung.wurl.tv/playlist.m3u8"
+
+},
+{
+    "nom":"Rakuten TV Films Action(eu) ",
+    "logo":"https://i.imgur.com/jJTnBNk.jpeg",
+    "url":"https://rakuten-actionmovies-7-eu.rakuten.wurl.tv/playlist.m3u8"
+
+},
+{
+    "nom":"Rakuten Spotlight France ",
+    "logo":"https://i.imgur.com/jJTnBNk.jpeg",
+    "url":"https://rakuten-spotlight-7-eu.rakuten.wurl.tv/playlist.m3u8"
+
+},
+{
+    "nom":"Rakuten TV Documentaires ",
+    "logo":"https://i.imgur.com/rAHBiO8.jpg",
+    "url":"https://rakuten-spotlight-7-eu.rakuten.wurl.tv/playlist.m3u8"
+
+},
+
+{
+    "nom":"Rakuten TOP FILMS ",
+    "logo":"https://i.imgur.com/OfD9hM9.jpeg",
+    "url":"https://rakuten-topfree-7-fr.plex.wurl.tv/playlist.m3u8"
+
+},
+
+{
+    "nom":"Rakuten TOP FILMS 2 ",
+    "logo":"https://i.imgur.com/OfD9hM9.jpeg",
+    "url":"https://rakuten-topfree-7-eu.rakuten.wurl.tv/playlist.m3u8"
+
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
