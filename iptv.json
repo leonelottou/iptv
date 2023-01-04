@@ -1,27 +1,27 @@
 [{
-    "nom":"TF1",
-    "logo":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/TF1_logo_2013.png/62px-TF1_logo_2013.png",
-    "url":"https://s13.tntendirect.com/tf1/live/playlist.m3u8"
+    "nom":"TF1 Séries Films",
+    "logo":"https://upload.wikimedia.org/wikipedia/fr/thumb/4/4b/TF1_S%C3%A9ries_Films_logo_2020.svg/81px-TF1_S%C3%A9ries_Films_logo_2020.svg.png",
+    "url":"http://gratuittv.free.fr/Files/tfsf/live/playlist.m3u8"
 
 },
 {
-    "nom":"France 2",
-    "logo":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/France_2_2018.svg/35px-France_2_2018.svg.png",
-    "url":"https://s13.tntendirect.com/france2/live/playlist.m3u8"
+    "nom":"Euronews",
+    "logo":"https://i.imgur.com/3Lr5iAj.png",
+    "url":"https://euronews.alteox.app/hls/fr_stream.m3u8"
 
 },
 
 {
-    "nom":"France 3",
-    "logo":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/France_3_2018.svg/35px-France_3_2018.svg.png",
-    "url":"https://s13.tntendirect.com/france3/live/playlist.m3u8"
+    "nom":"FBBC Drama",
+    "logo":"https://i.imgur.com/hY1M4hL.jpg",
+    "url":"https://bbceu-bbcdrama-1-fr.samsung.wurl.tv/playlist.m3u8"
 
 },
 
 {
     "nom":"M6",
     "logo":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Logo_M6_%282020%2C_fond_clair%29.svg/49px-Logo_M6_%282020%2C_fond_clair%29.svg.png",
-    "url":"https://s13.tntendirect.com/m6/live/playlist.m3u8"
+    "url":"https://shls-m6-france-prod-dub.shahid.net/out/v1/c8a9f6e000cd4ebaa4d2fc7d18c15988/index.m3u8"
 
 }
 
