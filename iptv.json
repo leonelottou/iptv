@@ -34,7 +34,7 @@
 
 {
     "nom":"DBM TV",
-    "logo":"https://i.imgur.com/61MSiq9.png",
+    "logo":"https://www.dbm-tv.fr/wp-content/uploads/2017/12/logo-dbm.png",
     "url":"http://dbmtv.vedge.infomaniak.com/livecast/dbmtv/playlist.m3u8"
 
 },
@@ -48,7 +48,7 @@
 
 {
     "nom":"Sport En France",
-    "logo":"https://www.google.com/imgres?imgurl=https%3A%2F%2Flookaside.fbsbx.com%2Flookaside%2Fcrawler%2Fmedia%2F%3Fmedia_id%3D129163073771201&imgrefurl=https%3A%2F%2Fwww.facebook.com%2FFrancetvsport%2F&tbnid=tdrzCDsbzwmzwM&vet=12ahUKEwiY4OiD4a78AhU-pycCHRmNBOwQMygAegUIARDBAQ..i&docid=RwI69eEsijEX6M&w=300&h=300&q=sport%20en%20france%20tv%20logo&ved=2ahUKEwiY4OiD4a78AhU-pycCHRmNBOwQMygAegUIARDBAQ",
+    "logo":"https://upload.wikimedia.org/wikipedia/fr/thumb/8/83/Sport_en_France_Logo.png/800px-Sport_en_France_Logo.png?20191229221541",
     "url":"https://sp1564435593.mytvchain.info/live/sp1564435593_360/index.m3u8"
 
 },
@@ -61,7 +61,7 @@
 
 {
     "nom":"TV78",
-    "logo":"https://www.google.com/imgres?imgurl=https%3A%2F%2Fcompagnieaffable.files.wordpress.com%2F2018%2F06%2Flogo-tv78.png%3Fw%3D640&imgrefurl=https%3A%2F%2Fcompagnieaffable.com%2Ffigures-de-style-de-la-fontaine-a-booba%2Flogo-tv78%2F&tbnid=NjGGiwmYf2bHRM&vet=12ahUKEwi59Oyf4a78AhXfpycCHTddBZcQMygEegQIARBb..i&docid=SbkAfg1KoAHljM&w=640&h=480&q=TV78%20logo&ved=2ahUKEwi59Oyf4a78AhXfpycCHTddBZcQMygEegQIARBb",
+    "logo":"https://upload.wikimedia.org/wikipedia/commons/4/41/Logo_tv78_yvelines.jpg",
     "url":"https://streamtv.cdn.dvmr.fr/TV78/ngrp:tv78.stream_all/master.m3u8"
 
 },
