@@ -1,4 +1,84 @@
-[{
+[
+    {
+        "nom":"BeIN SPORTS 1 Premium",
+        "logo":"https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_PREMIUM_Digital_Mono.png",
+        "url":"http://ourtv.live:8080/live/MediastarTV/MediastarTV/1126.ts"
+    
+    },
+
+    {
+        "nom":"BeIN SPORTS 2 Premium",
+        "logo":"https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS2_PREMIUM_Digital_Mono.png",
+        "url":"http://ourtv.live:8080/live/MediastarTV/MediastarTV/1127.ts"
+    
+    },
+
+    {
+        "nom":"BeIN SPORTS 3 Premium",
+        "logo":"https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_PREMIUM_Digital_Mono.png",
+        "url":"http://ourtv.live:8080/live/MediastarTV/MediastarTV/1128.ts"
+    
+    },
+
+    {
+        "nom":"BeIN SPORTS 1",
+        "logo":"https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_DIGITAL_Mono.png",
+        "url":"http://ourtv.live:8080/live/MediastarTV/MediastarTV/1129.ts"
+    
+    },
+
+    {
+        "nom":"BeIN SPORTS 2",
+        "logo":"https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS2_DIGITAL_Mono.png",
+        "url":"http://ourtv.live:8080/live/MediastarTV/MediastarTV/1130.ts"
+    
+    },
+
+    {
+        "nom":"BeIN SPORTS 3",
+        "logo":"https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_DIGITAL_Mono.png",
+        "url":"http://ourtv.live:8080/live/MediastarTV/MediastarTV/1131.ts"
+    
+    },
+
+    {
+        "nom":"BeIN SPORTS 4",
+        "logo":"https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS4_DIGITAL_Mono.png",
+        "url":"http://ourtv.live:8080/live/MediastarTV/MediastarTV/1132.ts"
+    
+    },
+
+    {
+        "nom":"BeIN SPORTS 5",
+        "logo":"https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS5_DIGITAL_Mono.png",
+        "url":"http://ourtv.live:8080/live/MediastarTV/MediastarTV/1133.ts"
+    
+    },
+
+    
+    {
+        "nom":"BeIN SPORTS 6",
+        "logo":"https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS6_DIGITAL_Mono.png",
+        "url":"http://ourtv.live:8080/live/MediastarTV/MediastarTV/1134.ts"
+    
+    },
+
+    {
+        "nom":" beIN Sports Max 2 HD",
+        "logo":"https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS_MAX2_DIGITAL_Mono.png",
+        "url":"http://ourtv.live:8080/live/MediastarTV/MediastarTV/707.ts"
+    
+    },
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    {
     "nom":"TF1 Séries Films",
     "logo":"https://upload.wikimedia.org/wikipedia/fr/thumb/4/4b/TF1_S%C3%A9ries_Films_logo_2020.svg/81px-TF1_S%C3%A9ries_Films_logo_2020.svg.png",
     "url":"http://gratuittv.free.fr/Files/tfsf/live/playlist.m3u8"
