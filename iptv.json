@@ -20,6 +20,36 @@
     
     },
 
+    
+
+    {
+        "nom":"BeIN SPORTS 1 FR",
+        "logo":"https://i.goalzz.com/?i=o%2fh%2f1%2f216%2fbein-sports-french-1.png",
+        "url":"http://server.sibfungold.info:8080/live/iptvchannels/7P1Wa27P1Wa2x4qTx4qT/3682.ts"
+    
+    },
+
+    
+    {
+        "nom":"BeIN SPORTS 2 FR",
+        "logo":"https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS2_DIGITAL_Mono.png",
+        "url":"http://server.sibfungold.info:8080/live/iptvchannels/7P1Wa27P1Wa2x4qTx4qT/47302.ts"
+    
+    },
+
+    {
+        "nom":"BeIN SPORTS 3 FR",
+        "logo":"https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_DIGITAL_Mono.png",
+        "url":"http://server.sibfungold.info:8080/live/iptvchannels/7P1Wa27P1Wa2x4qTx4qT/3680.ts"
+    
+    },
+
+
+
+
+
+
+
     {
         "nom":"BeIN SPORTS 1",
         "logo":"https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_DIGITAL_Mono.png",
