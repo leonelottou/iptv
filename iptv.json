@@ -1,223 +1,151 @@
 [
-    {
-        "nom":"BeIN SPORTS 1 Premium",
-        "logo":"https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_PREMIUM_Digital_Mono.png",
-        "url":"http://server.sibfungold.info:8080/live/iptvchannels/7P1Wa27P1Wa2x4qTx4qT/49685.ts"
-    
-    },
-
-    {
-        "nom":"BeIN SPORTS 2 Premium",
-        "logo":"https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS2_PREMIUM_Digital_Mono.png",
-        "url":"http://server.sibfungold.info:8080/live/iptvchannels/7P1Wa27P1Wa2x4qTx4qT/49386.ts"
-    
-    },
-
-    {
-        "nom":"BeIN SPORTS 3 Premium",
-        "logo":"https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_PREMIUM_Digital_Mono.png",
-        "url":"http://server.sibfungold.info:8080/live/iptvchannels/7P1Wa27P1Wa2x4qTx4qT/11.ts"
-    
-    },
-
-    
-
-    {
-        "nom":"BeIN SPORTS 1 FR",
-        "logo":"https://i.goalzz.com/?i=o%2fh%2f1%2f216%2fbein-sports-french-1.png",
-        "url":"http://server.sibfungold.info:8080/live/iptvchannels/7P1Wa27P1Wa2x4qTx4qT/3682.ts"
-    
-    },
-
-    
-    {
-        "nom":"BeIN SPORTS 2 FR",
-        "logo":"https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS2_DIGITAL_Mono.png",
-        "url":"http://server.sibfungold.info:8080/live/iptvchannels/7P1Wa27P1Wa2x4qTx4qT/47302.ts"
-    
-    },
-
-    {
-        "nom":"BeIN SPORTS 3 FR",
-        "logo":"https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_DIGITAL_Mono.png",
-        "url":"http://server.sibfungold.info:8080/live/iptvchannels/7P1Wa27P1Wa2x4qTx4qT/3680.ts"
-    
-    },
-
-
-
-
-
-
-
-    {
-        "nom":"BeIN SPORTS 1",
-        "logo":"https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_DIGITAL_Mono.png",
-        "url":"http://server.sibfungold.info:8080/live/iptvchannels/7P1Wa27P1Wa2x4qTx4qT/1.ts"
-    
-    },
-
-    {
-        "nom":"BeIN SPORTS 2",
-        "logo":"https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS2_DIGITAL_Mono.png",
-        "url":"http://server.sibfungold.info:8080/live/iptvchannels/7P1Wa27P1Wa2x4qTx4qT/2.ts"
-    
-    },
-
-    {
-        "nom":"BeIN SPORTS 3",
-        "logo":"https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_DIGITAL_Mono.png",
-        "url":"http://server.sibfungold.info:8080/live/iptvchannels/7P1Wa27P1Wa2x4qTx4qT/48879.ts"
-    
-    },
-
-    {
-        "nom":"BeIN SPORTS 4",
-        "logo":"https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS4_DIGITAL_Mono.png",
-        "url":"http://server.sibfungold.info:8080/live/iptvchannels/7P1Wa27P1Wa2x4qTx4qT/4.ts"
-    
-    },
-
-    {
-        "nom":"BeIN SPORTS 5",
-        "logo":"https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS5_DIGITAL_Mono.png",
-        "url":"http://server.sibfungold.info:8080/live/iptvchannels/7P1Wa27P1Wa2x4qTx4qT/5.ts"
-    
-    },
-
-    
-    {
-        "nom":"BeIN SPORTS 6",
-        "logo":"https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS6_DIGITAL_Mono.png",
-        "url":"http://server.sibfungold.info:8080/live/iptvchannels/7P1Wa27P1Wa2x4qTx4qT/6.ts"
-    
-    },
-
-    {
-        "nom":" beIN Sports Max 2 HD",
-        "logo":"https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS_MAX2_DIGITAL_Mono.png",
-        "url":"http://ourtv.live:8080/live/MediastarTV/MediastarTV/707.ts"
-    
-    },
-    
-    
-    
-    
-    
-    
-    
-    
+  
     
     {
     "nom":"TF1 Séries Films",
     "logo":"https://upload.wikimedia.org/wikipedia/fr/thumb/4/4b/TF1_S%C3%A9ries_Films_logo_2020.svg/81px-TF1_S%C3%A9ries_Films_logo_2020.svg.png",
-    "url":"http://gratuittv.free.fr/Files/tfsf/live/playlist.m3u8"
+    "url":"http://gratuittv.free.fr/Files/tfsf/live/playlist.m3u8",
+    "lecteur":"0",
+    "stream":""
 
 },
 {
     "nom":"Euronews",
     "logo":"https://i.imgur.com/3Lr5iAj.png",
-    "url":"https://euronews.alteox.app/hls/fr_stream.m3u8"
+    "url":"https://euronews.alteox.app/hls/fr_stream.m3u8",
+    "lecteur":"0",
+    "stream":""
 
 },
 
 {
     "nom":"BBC Drama",
     "logo":"https://i.imgur.com/hY1M4hL.jpg",
-    "url":"https://bbceu-bbcdrama-1-fr.samsung.wurl.tv/playlist.m3u8"
+    "url":"https://bbceu-bbcdrama-1-fr.samsung.wurl.tv/playlist.m3u8",
+    "lecteur":"0",
+    "stream":""
+    
 
 },
 
 {
     "nom":"M6",
     "logo":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Logo_M6_%282020%2C_fond_clair%29.svg/49px-Logo_M6_%282020%2C_fond_clair%29.svg.png",
-    "url":"https://shls-m6-france-prod-dub.shahid.net/out/v1/c8a9f6e000cd4ebaa4d2fc7d18c15988/index.m3u8"
+    "url":"https://shls-m6-france-prod-dub.shahid.net/out/v1/c8a9f6e000cd4ebaa4d2fc7d18c15988/index.m3u8",
+    "lecteur":"0",
+    "stream":""
 
 },
 
 {
     "nom":"France 24",
     "logo":"https://i.imgur.com/61MSiq9.png",
-    "url":"https://hls.youtb.workers.dev/channel/UCCCPCZNChQdGa9EkATeye4g.m3u8"
+    "url":"https://hls.youtb.workers.dev/channel/UCCCPCZNChQdGa9EkATeye4g.m3u8",
+    "lecteur":"0",
+    "stream":""
 
 },
 
 {
     "nom":"DBM TV",
     "logo":"https://www.dbm-tv.fr/wp-content/uploads/2017/12/logo-dbm.png",
-    "url":"http://dbmtv.vedge.infomaniak.com/livecast/dbmtv/playlist.m3u8"
+    "url":"http://dbmtv.vedge.infomaniak.com/livecast/dbmtv/playlist.m3u8",
+    "lecteur":"0",
+    "stream":""
 
 },
 
 {
     "nom":"KTO",
     "logo":"https://upload.wikimedia.org/wikipedia/fr/thumb/4/4f/Logo_de_KTO_T%C3%A9l%C3%A9vision_catholique_2022.png/200px-Logo_de_KTO_T%C3%A9l%C3%A9vision_catholique_2022.png",
-    "url":"https://live-kto.akamaized.net/hls/live/2033284/KTO/master.m3u8"
+    "url":"https://live-kto.akamaized.net/hls/live/2033284/KTO/master.m3u8",
+    "lecteur":"0",
+    "stream":""
 
 },
 
 {
     "nom":"Sport En France",
     "logo":"https://upload.wikimedia.org/wikipedia/fr/thumb/8/83/Sport_en_France_Logo.png/800px-Sport_en_France_Logo.png?20191229221541",
-    "url":"https://sp1564435593.mytvchain.info/live/sp1564435593_360/index.m3u8"
+    "url":"https://sp1564435593.mytvchain.info/live/sp1564435593_360/index.m3u8",
+    "lecteur":"0",
+    "stream":""
 
 },
 {
     "nom":"TV5Monde Info",
     "logo":"https://i.imgur.com/NcysrWH.png",
-    "url":"https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8"
+    "url":"https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8",
+    "lecteur":"0",
+    "stream":""
 
 },
 
 {
     "nom":"TV78",
     "logo":"https://upload.wikimedia.org/wikipedia/commons/4/41/Logo_tv78_yvelines.jpg",
-    "url":"https://streamtv.cdn.dvmr.fr/TV78/ngrp:tv78.stream_all/master.m3u8"
+    "url":"https://streamtv.cdn.dvmr.fr/TV78/ngrp:tv78.stream_all/master.m3u8",
+    "lecteur":"0",
+    "stream":""
 
 },
 
 {
     "nom":"Novelas TV",
     "logo":"https://upload.wikimedia.org/wikipedia/commons/3/34/Novelas_TV.png",
-    "url":"https://stormcast-telenovelatv-1-fr.samsung.wurl.tv/playlist.m3u8"
+    "url":"https://stormcast-telenovelatv-1-fr.samsung.wurl.tv/playlist.m3u8",
+    "lecteur":"0",
+    "stream":""
 
 },
 {
     "nom":"Rakuten TV Films Action ",
     "logo":"https://i.imgur.com/jJTnBNk.jpeg",
-    "url":"https://stormcast-telenovelatv-1-fr.samsung.wurl.tv/playlist.m3u8"
+    "url":"https://stormcast-telenovelatv-1-fr.samsung.wurl.tv/playlist.m3u8",
+    "lecteur":"0",
+    "stream":""
 
 },
 {
     "nom":"Rakuten TV Films Action(eu) ",
     "logo":"https://i.imgur.com/jJTnBNk.jpeg",
-    "url":"https://rakuten-actionmovies-7-eu.rakuten.wurl.tv/playlist.m3u8"
+    "url":"https://rakuten-actionmovies-7-eu.rakuten.wurl.tv/playlist.m3u8",
+    "lecteur":"0",
+    "stream":""
 
 },
 {
     "nom":"Rakuten Spotlight France ",
     "logo":"https://i.imgur.com/jJTnBNk.jpeg",
-    "url":"https://rakuten-spotlight-7-eu.rakuten.wurl.tv/playlist.m3u8"
+    "url":"https://rakuten-spotlight-7-eu.rakuten.wurl.tv/playlist.m3u8",
+    "lecteur":"0",
+    "stream":""
 
 },
 {
     "nom":"Rakuten TV Documentaires ",
     "logo":"https://i.imgur.com/rAHBiO8.jpg",
-    "url":"https://rakuten-documentaries-7-eu.rakuten.wurl.tv/playlist.m3u8"
+    "url":"https://rakuten-documentaries-7-eu.rakuten.wurl.tv/playlist.m3u8",
+    "lecteur":"0",
+    "stream":""
 
 },
 
 {
     "nom":"Rakuten TOP FILMS ",
     "logo":"https://i.imgur.com/OfD9hM9.jpeg",
-    "url":"https://rakuten-topfree-7-fr.plex.wurl.tv/playlist.m3u8"
+    "url":"https://rakuten-topfree-7-fr.plex.wurl.tv/playlist.m3u8",
+    "lecteur":"0",
+    "stream":""
 
 },
 
 {
     "nom":"Rakuten TOP FILMS 2 ",
     "logo":"https://i.imgur.com/OfD9hM9.jpeg",
-    "url":"https://rakuten-topfree-7-eu.rakuten.wurl.tv/playlist.m3u8"
+    "url":"https://rakuten-topfree-7-eu.rakuten.wurl.tv/playlist.m3u8",
+    "lecteur":"0",
+    "stream":""
 
 },
 
@@ -225,7 +153,9 @@
 {
     "nom":"C8 ",
     "logo":"https://i.imgur.com/LXhXF8l.png",
-    "url":"https://s13.tntendirect.com/d8/live/playlist.m3u8"
+    "url":"https://s13.tntendirect.com/d8/live/playlist.m3u8",
+    "lecteur":"0",
+    "stream":""
 
 }
 
